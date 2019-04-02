@@ -1,4 +1,15 @@
 # 프로그램 소개
+![구글 로고](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+[구글로 가기](https://www.google.co.kr/)
+
+https://www.google.co.kr/
+
+> `구글신`께서 말씀하시길...
+>
+> 구글님은 `모든 것`을 알고 계셔.
+
+`cmd()`을 띄우려면 `윈도우 + R`을 누른 후 `cmd`를 입력하고 엔터를 치세요.
+
 **헬로우 월드**
 
 *헬로우 월드*
