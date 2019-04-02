@@ -11,6 +11,18 @@ https://www.google.co.kr/
 `cmd()`을 띄우려면 `윈도우 + R`을 누른 후 `cmd`를 입력하고 엔터를 치세요.
 
 **헬로우 월드**
+```c
+#include <stdio.h>
+int main() {
+  printf("Hello World");
+}
+```
+```php
+<?php
+  echo "Hello World";
+  phpinfo();
+?>
+```
 
 *헬로우 월드*
 
